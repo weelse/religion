@@ -9,3 +9,4 @@
 ## Main Thoughts
 
 - Main language is English. It's the most used language in the world so why we need to learn something else?
+- Integrate blockchain into all possible things to prevent corruption.
