@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Index.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>596624704.65375698</real>
+				<key>lastModification</key>
+				<real>596624704.65375698</real>
+				<key>version</key>
+				<dict>
+					<key>1fae1a61b18e5f2879353dab89578b2ed9dfb7e00d2559a0302e864a36fabeef</key>
+					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>The Else Religion.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>596618637.41420996</real>
+				<key>version</key>
+				<dict>
+					<key>1fae1a61b18e5f2879353dab89578b2ed9dfb7e00d2559a0302e864a36fabeef</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>The Faith.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>596618417.88960195</real>
+				<key>version</key>
+				<dict>
+					<key>1fae1a61b18e5f2879353dab89578b2ed9dfb7e00d2559a0302e864a36fabeef</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Index.md</string>
+		</array>
+		<array>
+			<string>The Else Religion.md</string>
+		</array>
+		<array>
+			<string>The Faith.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>1fae1a61b18e5f2879353dab89578b2ed9dfb7e00d2559a0302e864a36fabeef</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
